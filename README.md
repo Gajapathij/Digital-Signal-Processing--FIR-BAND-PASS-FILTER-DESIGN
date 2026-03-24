@@ -12,6 +12,7 @@ Step 2: Read the values of Order of the filter N.
 
 Step 3: Find out the desired impulse response of the Band Pass filter Coefficient.
 
+
 Step 4: Find out the windowing sequence.
 
 Step 5: Plot the magnitude spectrum with x-label and y-label with suitable title.
